@@ -109,16 +109,20 @@ body {
         order: 1;
     }
 
-    .mission-section {
+    .mission-statement-section {
         flex-direction: column;
     }
 
     .mission-image {
-        order: 2;
+        order: 2; /* image comes after the content */
+        width: 100%;
     }
 
     .mission-content {
-        order: 1;
+        order: 1; /* content comes first */
+        padding: 0 15px; /* adds padding to the content for better readability on smartphone   */
+    }
+
     }
 
     .core-values-section {
@@ -146,6 +150,14 @@ body {
         order: 1;
     }
 
+    .services-statement-section {
+    flex-direction: column;
+    }
+
+    .services-image {
+    order: 2;
+    width: 100%;
+    }
 
 
 
