@@ -102,13 +102,13 @@ body {
     }
 
     .welcome-image {
-        order: 2;
+        order: 1;
         width: 100%
     }
 
     .welcome-content {
-        order: 1;
-        padding: 0 15px;
+        order: 2;
+        /*padding: 0 15px;*/
     }
 
     .mission-statement-section {
@@ -116,7 +116,7 @@ body {
     }
 
     .mission-image {
-        order: 2; /* image comes after the content */
+        order: 1; /* image comes after the content */
         width: 100%;
     }
 
@@ -132,7 +132,7 @@ body {
     }
 
     .core-values-image {
-        order: 2;
+        order: 1;
     }
 
     .core-values-content {
