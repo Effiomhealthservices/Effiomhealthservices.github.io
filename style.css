@@ -111,13 +111,11 @@ body {
     }
 
     .welcome-image {
-        order: 1;
-        width: 100%
+        order: 2;
     }
 
     .welcome-content {
-        order: 2;
-        /*padding: 0 15px;*/
+        order: 1;
     }
 
     .mission-statement-section {
@@ -125,15 +123,11 @@ body {
     }
 
     .mission-image {
-        order: 1; /* image comes after the content */
-        width: 100%;
+        order: 2; /* image comes after the content */
     }
 
     .mission-content {
         order: 1; /* content comes first */
-        padding: 0 15px; /* adds padding to the content for better readability on smartphone   */
-    }
-
     }
 
     .core-values-section {
@@ -142,12 +136,10 @@ body {
 
     .core-values-image {
         order: 2;
-         width: 100%;
     }
 
     .core-values-content {
         order: 1;
-         padding: 0 15px;
     }
 
     .vision-section {
@@ -157,12 +149,10 @@ body {
  
     .vision-image {
         order: 2;
-        width: 100%;
     }
 
     .vision-content {
         order: 1;
-        padding: 0 15px;
     }
 
     .services-statement-section {
@@ -171,7 +161,6 @@ body {
 
     .services-image {
     order: 2;
-    width: 100%;
     }
 
 
