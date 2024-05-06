@@ -94,6 +94,15 @@ body {
      height: 100%;
 }
 
+.core-values-image img {
+     margin-left: auto;
+     width: 100%;
+     max-width: 100%;
+     height: 100%;
+}
+
+
+
 
 /* You may want to add responsiveness */
 @media (max-width: 768px) {
