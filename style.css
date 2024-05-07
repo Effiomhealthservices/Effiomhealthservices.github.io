@@ -157,7 +157,7 @@ body {
     font-size: 30px;
 }
 
-.mission-content {
+.mission-statement-content {
     flex: 1; /* Causes the text content to expand and fill the available space */
     padding: 0 20px;
     font-size: 30px;
