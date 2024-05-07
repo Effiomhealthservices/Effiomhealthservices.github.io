@@ -82,9 +82,9 @@ body {
 
 .mission-image img {
      margin-left: auto;
-     width: 100%;
+     width: auto;
      max-width: 100%;
-     height: 100%;
+     height: auto;
 }
 
 .vision-image img {
